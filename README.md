@@ -154,7 +154,7 @@ Business Questions Answered:
 
 ---
 
-# 📌 Business Insights
+### 📌 Business Insights
 
 The dashboard helps generate insights such as:
 
@@ -172,7 +172,7 @@ The dashboard helps generate insights such as:
 
 ---
 
-# 💼 Business Decisions Supported
+### 💼 Business Decisions Supported
 
 The dashboard helps management make decisions such as:
 
@@ -213,7 +213,7 @@ The dashboard helps management make decisions such as:
 
 ---
 
-# 🚀 Project Outcome
+### 🚀 Project Outcome
 
 This project demonstrates how business data can be transformed into an interactive Business Intelligence solution using Power BI.
 
